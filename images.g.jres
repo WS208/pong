@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQEABAAAAARERERERERESEiIiIiIiISISIiIiIiIhIREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Left Paddle"
+    },
+    "image2": {
+        "data": "hwQEABAAAAAREREREREREYGIiIiIiIgYgYiIiIiIiBgREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Right paddle"
+    },
+    "image3": {
+        "data": "hwQMAA0AAAAAAP////8AAAD/ERER8QAA8BERERHxAADwEREREREPAB8REREREQ8AHxERERERDwAfEREREREPAB8REREREQ8A8BERERERDwDwEREREfEAAAD/ERER8QAAAAD/////AAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ball"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
